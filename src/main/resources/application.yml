@@ -4,4 +4,4 @@ server:
   port: 8080
 
 spring:
-  profile-testing-key: arji interface - no profiles set .
+  profile-testing-key: arji interface - no profiles set.
