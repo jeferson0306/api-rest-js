@@ -25,8 +25,8 @@ public class SwaggerConfig {
 
     private ApiInfo metaData() {
         return new ApiInfoBuilder()
-                .title("API REST JS - JS Project")
-                .description("Api responsável por cadastrar e armazear clientes no banco")
+                .title("ARJI - Api Rest JS Interface - JS PROJECT")
+                .description("Api responsible for updating registration data")
                 .version("1.0")
                 .license("Apache 2.0")
                 .licenseUrl("https://www.apache.org/licenses/LICENSE-2.0")
